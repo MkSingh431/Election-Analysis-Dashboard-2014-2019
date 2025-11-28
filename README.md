@@ -20,6 +20,6 @@ Enabled faster decision-making with dynamic KPIs (total votes, turnout %, winner
  This dashboard helps election researchers, analysts, and organizations monitor party performance, compare regions, evaluate voting trends, and understand the deeper patterns behind electoral outcomes.
 ![image text](https://github.com/MkSingh431/Election-Analysis-Dashboard-2014-2019/blob/main/Screenshot/Screenshot%202025-11-27%20212743.png)
 Follow Me
-[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD64mSMBFgXkXwCLAWD9sLe_sBVrG2CWqEQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BH68pT7bcQjS%2F7FaSBN9%2Bdg%3D%3D)
+[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD64mSMBFgXkXwCLAWD9sLe_sBVrG2CWqEQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BH68pT7bcQjS%2F7FaSBN9%2Bdg%3D%3D)\
 [Email](mks465261@gmail.com)
 
